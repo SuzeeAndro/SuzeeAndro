@@ -165,7 +165,7 @@ I'm open to collaborating on challenging engineering projects involving:
 - Developer tools and automation
 - Software architecture and system design
 
-📧 **Email:** [stephen.suji22@gmail.com](mailto:stephen.suji22@gmail.com)
+📧 **Email:** [stephen.suji22@gmail.com](mailto:ai.stephensuji@gmail.com)
 
 ---
 
